@@ -1,9 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Best Beauty Cream For Your Skin"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed dia"
+  title : "EternityPlayz"
+  content : "EternityPlayz is a Minecraft Multiplayer RPGMMo Server and has a Fantasy Adventure Theme with Hard Economy Features!"
   image : "images/banner.png"
   # button
   button:
@@ -13,78 +12,74 @@ banner:
   # demo video
   video:
     enable : true
-    videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+    videoURL : "https://youtube.com"
 
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
+  title : "Store Information"
+  content : "We also sell ranks for server costs because EternityPlayz requires more costs to develop, and we provide several exclusive ranks with attractive features."
   image : "images/about.png"
 
 
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Buy one Get One Free Taba Cream"
-  content : "Available for limited time only. Grab one while you still can!"
+  title : "Buy Items Now And Get Extra Bonuses"
+  content : "Click the bellow button to see all the items we sell!"
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
-    label : "All Products"
+    label : "Go To Shop Page"
     link : "products/"
 
 ######################## raw material #######################
 material:
   enable : true
-  title : "Ingredients Of Our Products"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dol."
+  title : "What are the features on the EternityPlayz server ?"
+  subtitle : "Kami Menyediakan Fitur Fitur Keren Dan Menyenangkan Untuk Kalian Bermain, Dan Rasakan Keseruan Yang Tiada Tanding Sepeti.."
   materialItem:
     # material item loop
-    - title : "Matcha Seeds"
+    - title : "Economy Feature"
       image : "images/material/material-1.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Kami Menggunakan Sebuah Sistem Hard Economy, Yang Seakan Berada Di Dunia RL "
       
     # material item loop
-    - title : "Aloe Vera"
+    - title : "Adventure Experience"
       image : "images/material/material-2.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Rasakan Petualangan Yang Tiada Habisnya Dengan Structure, Hewan, Item, Dan Bahkan Biome Baru!!"
       
     # material item loop
-    - title : "Turmeric"
+    - title : "Magical"
       image : "images/material/material-3.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Magical Atau Sering Disebut Juga Sihir Dapat Kamu Gunakan Di Eter! Dengan Menggunakan Item Tambahan! Rasakan Sensasi Serunya!"
       
     # material item loop
-    - title : "Tulshi leaf"
+    - title : "Fantasy Experience"
       image : "images/material/material-4.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Gak Ketinggalan Tema Utama Kami Yaitu Fantasy, Nikmati Suasana Fantasy Yang Asri, Adem, Dan Apik!"
 
 ########################### Advantage #########################
 advantage:
-  enable : true
-  title : "Advantages Of Using <br> Our Product"
-  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
+  enable : false
+  title : "Nope"
+  subtitle : "Nope"
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
+    - listItem : "Extremely"
+    - listItem : "Excellent"
+    - listItem : "Can"
+    - listItem : "Glow"
+    - listItem : "Increasing"
+    - listItem : "More"
 
 
 ######################## Promo Video ##########################
 video:
   enable : true
-  title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  title : "Bagaimana Cara Membeli Di EternityStore"
+  content : "Ingin Membeli Rank Atau Item Lainnya Di Website EternityUniverse? Cuss Lihat Video Tutorialnya Yang Sudah Kami Sediakan Di Youtube Klik Tombol Di Kiri Untuk Langsung Melihat!"
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -98,8 +93,8 @@ products:
 
 ########################## Testimonial ########################
 testimonial:
-  enable : true
-  title : "What People Are Saying <br> About Our Product"
+  enable : false
+  title : "Jajaran Staff Staff Eternity <br> About Of Staff Eter"
   testimonialItem:
     # testimonial item loop
     - name : "Angelo Perara"
