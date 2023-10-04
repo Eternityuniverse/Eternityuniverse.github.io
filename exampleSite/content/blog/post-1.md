@@ -1,5 +1,5 @@
 ---
-title: "Lower Back Pain? Self-Administered Acupressure Could Help"
+title: "Minecraft 1.20.31: Info Update Keren Dan Tips Anti-Lag!"
 date: 2023-10-4T11:22:16+06:00
 draft: false
 description : "Update Mcpe Sekarang Makin Keren + Cara Agar Gak Lag!!"
