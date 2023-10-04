@@ -1,26 +1,35 @@
 ---
 title: "Lower Back Pain? Self-Administered Acupressure Could Help"
-date: 2019-10-17T11:22:16+06:00
+date: 2023-10-4T11:22:16+06:00
 draft: false
-description : "this is a meta description"
+description : "Update Mcpe Sekarang Makin Keren + Cara Agar Gak Lag!!"
 image: "images/blog/post-1.jpg"
-author: "John Doe"
+author: "RizalDaisuki"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+Hello, minecrafters~
+Minecraft bedrock update lagi lho. Yup, update 1.20.31 cuy. Nah, di update terbaru, mojang memperbaiki beberapa bug dan penambahan ke Minecraft bedrock lho. Mau apa aja? Simak secara lanjut yah~
 
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+• Update dan Penambahan terbaru
+Di update 1.20.31 ini, mojang memberikan sedikit penambahan dan perbaikan bug lho. Kira-kira, apa aja ya?
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Di update ini, Mojang menambahkan sebuah fitur yang bisa di bilang lama bagi java. Yaitu, More visible shield atau shield yang lebih terlihat. Nah, dulu, pasti pernah minecraft bedrock kita ngebug dan shield kita jadi kependekkan. Di java 1.9-1.10.1, bug ini sering terjadi. Namun, setelah update 1.11, bug ini sudah jarang terlihat. Mungkin, ini terdengar lebih ke bug daripada fitur kan? Sebenarnya tidak. Pada update 1.19.30 an, mojang juga memberikan fitur max fps. Nah, jika kita rubah ke unlimited, maka shield kita akan sedikit lebih rendah. Dan jika kembalikan ke pengaturan awal (misal, 120 fps), shieldnya akan kembali seperti semula.
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
+Selain itu, mojang memperbaiki beberapa bug. Bug sniffer, render distance dan beberapa lag yang disebabkan oleh game juga sedikit berkurang.
 
-> And yes, it does attach an image of you selecting a text on Medium instead of just quoting the text. What a mess with blog.
+• Spesifikasi untuk bermain
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+Minecraft semakin update nih. Game yang di update, size nya akan bertambah. Terkadang, update dari game juga dapat menyebabkan musuh terbesar dari gamer yaitu lag. Lag bisa saja disebabkan oleh beratnya game, sulitnya GPU/ Graphic Processing Unit dalam device kalian untuk merender dan suhu device kalian.
 
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Nah, untuk mengantisipasi hal itu, Minecrafters bisa memakai device yang bisa dibilang sedikit memadai. Bisa dibilang... Spesifikasi dibawah masih bisa digunakan untuk bermain minecraft
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Minimum OS : Android 5
+Snapdragon 430+
+Ram 2
+Rom 16
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
+Mungkin itu sedikit paparan dari minimum device untuk memainkan minecraft bedrock yang terbaru ya~
+
+Walau hanya dapat 10-15 fps, minecrafters tetap bisa menikmati game minecraft dengan sedikit pengaturan. Seperti mematikan fancy graphic, view bobbing, meredupkan brightness, dan menonaktifkan smooth lighting
+
+Cukup sekian dari mimin. Semoga informasi diatas bisa membantu minecrafters. Sekian, terimakasih~
