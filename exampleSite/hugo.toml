@@ -137,8 +137,8 @@ unsafe = true
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "A Server Of EterPlayz by EU"
+author = "Stev"
 # google map
 gmapAPI = "#"
 mapLatitude = "51.5223477"
